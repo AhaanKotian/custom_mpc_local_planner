@@ -1,0 +1,7 @@
+<library path="lib/libcustom_mpc_local_planner">
+        <class name ="custom_mpc_local_planner/MPC" type ="custom_mpc_local_planner::MPC" base_class_type= "nav_core::BaseLocalPlanner">
+                <description>
+                        This is custom MPC Base Local Planner plugin for move_base by Ahaan Kotian
+                </description>
+        </class>
+</library>
